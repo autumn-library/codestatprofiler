@@ -1,0 +1,41 @@
+{
+  "C:\\Users\\n.ivanchenko\\Documents\\Repositories\\CodeStatProfiler\\tests\\generateStat.os": {
+    "#path": "C:\\Users\\n.ivanchenko\\Documents\\Repositories\\CodeStatProfiler\\tests\\generateStat.os",
+    "ДобавитьВМассив": {
+      "4": {
+        "count": 100,
+        "time": 0
+      },
+      "5": {
+        "count": 100,
+        "time": 13
+      },
+      "6": {
+        "count": 100,
+        "time": 0
+      }
+    },
+    "$entry": {
+      "8": {
+        "count": 1,
+        "time": 9
+      },
+      "10": {
+        "count": 101,
+        "time": 2
+      },
+      "11": {
+        "count": 100,
+        "time": 605
+      },
+      "12": {
+        "count": 100,
+        "time": 1
+      },
+      "13": {
+        "count": 100,
+        "time": 0
+      }
+    }
+  }
+}
