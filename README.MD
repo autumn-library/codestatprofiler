@@ -5,7 +5,7 @@
 ### Установка
 
 ```bash
-opm intstall codestatprofiler
+opm install codestatprofiler
 ```
 
 ### Использование
